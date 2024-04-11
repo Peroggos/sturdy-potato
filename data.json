@@ -1,0 +1,41 @@
+[
+    {
+        "id":"1",
+        "name":"билборд", 
+        "author":"Алина",
+        "link":"https://youtu.be/iVxTBo8Z0qQ?si=wwx0mHo7U0Mhb-Nu",
+        "author_all":[
+            {
+            "id":"2",
+            "name":"наризная тарелка из дерева", 
+            "author":"Никита Богданов",
+            "link":"https://youtu.be/hUtIqY2a00w?si=65EbkMtp-_YU1jkB"
+            },
+            {
+                "id":"3",
+                "name":"резьба по дереву", 
+                "author":"Григорий Уткин",
+                "link":"https://dzen.ru/a/X33z4N7mZUOYhPo5"
+            },
+            {
+                "id":"4",
+               "name":"выжегание по дереву", 
+               "author":"Егор Филатов",
+                "link":"https://infourok.ru/statya-na-temu-vizhiganie-po-derevu-uvlekatelniy-vid-dekorativnoprikladnogo-iskusstva-3994488.html"
+               },
+               {
+                "id":"5",
+               "name":"сделать полку", 
+               "author":"Мирон Гуляев",
+                "link":"https://club.dns-shop.ru/blog/t-239-shurupovertyi/39909-kak-sdelat-polku-i-kakoi-instrument-ponadobitsya/"
+               },
+               {
+                "id":"6",
+               "name":"сделать искуствиные цветы", 
+               "author":"Кристина Гурова",
+                "link":"https://burdastyle.ru/master-klassy/decor/kak-sdelat-cvetok-svoimi-rukami-20-sposobov_20701/"
+               }
+
+        ]
+    }
+]
